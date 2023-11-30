@@ -8,10 +8,6 @@ using Iot.Device.Adc;
 using Spire.Xls;
 using Iot.Device.RotaryEncoder;
 
-var devOneWire = OneWireThermometerDevice.EnumerateDevices().FirstOrDefault();
-
-int indexer = 10;
-
 //////////////////////////////////task 4
 if (DeviceHelper.GetIna219Devices() is [I2cConnectionSettings settings])
 {
@@ -27,8 +23,7 @@ if (DeviceHelper.GetIna219Devices() is [I2cConnectionSettings settings])
 
     using Ina219 ina = new Ina219(settings);
 
-    while (indexer < 6)
-    {
+
         double I = ina.ReadCurrent().Milliamperes;
         double V = ina.ReadBusVoltage().Millivolts;
         double P = (double)ina.ReadPower().Milliwatts;
@@ -38,8 +33,8 @@ if (DeviceHelper.GetIna219Devices() is [I2cConnectionSettings settings])
         worksheet.Range[indexer + 2, 3].Value = P.ToString();
 
         Console.WriteLine($"mesurment {indexer+1}: I = {I}mA, V = {V}mV, P = {P}mW");
-    }
-    workbook.SaveToFile("WriteToCells.xlsx", ExcelVersion.Version2016);
+    
+    workbook.SaveToFile("WriteToCells.xlsx");
 }
 
 

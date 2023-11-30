@@ -8,16 +8,21 @@ using Iot.Device.Adc;
 using Spire.Xls;
 using Iot.Device.RotaryEncoder;
 
-var devOneWire = OneWireThermometerDevice.EnumerateDevices().FirstOrDefault();
+bool flag = true;
 
-int indexer = 10;
-
-while (indexer > 0)
+Console.CancelKeyPress += (sender, EventArgs) =>
 {
-    double temp = devOneWire.ReadTemperatureAsync().Result.DegreesCelsius;
-    Console.WriteLine($"Temperature = {Math.Round(temp, 2, MidpointRounding.AwayFromZero)}");
-    indexer--;
-    await Task.Delay(2000);
+    flag = false;
+};
+
+while (flag)
+{
+    foreach(var dev in OneWireThermometerDevice.EnumerateDevices())
+    {
+        Console.WriteLine("Name: " + dev.DeviceId.ToString());
+        Console.WriteLine("Temperature: " + dev.ReadTemperature().DegreesCelsius.ToString());
+        Console.WriteLine();
+    }
 }
 
 

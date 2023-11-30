@@ -1050,11 +1050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Татьяна\\Desktop\\Учеба\\ЭВМ\\Практика\\Практика 4\\Lab4\\task2\\task2.csproj",
+      "projectUniqueName": "C:\\Users\\Татьяна\\Desktop\\Учеба\\ЭВМ\\EVM\\Практика\\Практика 4\\Lab4\\task2\\task2.csproj",
       "projectName": "task2",
-      "projectPath": "C:\\Users\\Татьяна\\Desktop\\Учеба\\ЭВМ\\Практика\\Практика 4\\Lab4\\task2\\task2.csproj",
+      "projectPath": "C:\\Users\\Татьяна\\Desktop\\Учеба\\ЭВМ\\EVM\\Практика\\Практика 4\\Lab4\\task2\\task2.csproj",
       "packagesPath": "C:\\Users\\Татьяна\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Татьяна\\Desktop\\Учеба\\ЭВМ\\Практика\\Практика 4\\Lab4\\task2\\obj\\",
+      "outputPath": "C:\\Users\\Татьяна\\Desktop\\Учеба\\ЭВМ\\EVM\\Практика\\Практика 4\\Lab4\\task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Татьяна\\AppData\\Roaming\\NuGet\\NuGet.Config",

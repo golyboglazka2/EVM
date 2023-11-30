@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2P41QbKNYVs14gN6sviS60vDozb5BSN6GpJv5W9rXKGuYTPUicOFjszX34fPquLDz1UURWbt62yd5UHNiDQfmg==",
+  "dgSpecHash": "0ktTJOZcx55EF6CYdJeABCDkWLrFfXqOAXNh19WUxxiSYFhQ0Ka0H5i+oib65BXqyrK9CNwa5j1Ow7RFHSEKSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Татьяна\\Desktop\\Учеба\\ЭВМ\\Практика\\Практика 4\\Lab4\\task4\\task3\\task3.csproj",
+  "projectFilePath": "C:\\Users\\Татьяна\\Desktop\\Учеба\\ЭВМ\\EVM\\Практика\\Практика 4\\Lab4\\task4\\task3\\task3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Татьяна\\.nuget\\packages\\iot.device.bindings\\3.0.0\\iot.device.bindings.3.0.0.nupkg.sha512",
     "C:\\Users\\Татьяна\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",

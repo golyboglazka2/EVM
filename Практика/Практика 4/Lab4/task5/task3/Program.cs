@@ -8,7 +8,7 @@ using Iot.Device.Adc;
 using Spire.Xls;
 using Iot.Device.RotaryEncoder;
 
-var devOneWire = OneWireThermometerDevice.EnumerateDevices().FirstOrDefault();
+//var devOneWire = OneWireThermometerDevice.EnumerateDevices().FirstOrDefault();
 
 ///////////////////task5
 const int D0 = 24;
