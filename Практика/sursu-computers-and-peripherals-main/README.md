@@ -1,1 +1,0 @@
-# sursu-computers-and-peripherals
