@@ -8,7 +8,7 @@ using Iot.Device.Adc;
 using Spire.Xls;
 using Iot.Device.RotaryEncoder;
 
-//////////////////////////////////task 4
+//////////////////////////////////task 4      0.6A 5B  0.1Om
 if (DeviceHelper.GetIna219Devices() is [I2cConnectionSettings settings])
 {
     //Создание объекта Workbook 
