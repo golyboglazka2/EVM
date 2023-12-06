@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\bin\Debug\net7.0\Client.exe
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\bin\Debug\net7.0\Client.deps.json
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\bin\Debug\net7.0\Client.dll
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\bin\Debug\net7.0\Client.pdb
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\Client.dll
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\refint\Client.dll
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\Client.pdb
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\Учеба\ЭВМ\Лабораторные работы\Лабораторная 3\ECMLab3-main\ECMLab3\Client\obj\Debug\net7.0\ref\Client.dll
