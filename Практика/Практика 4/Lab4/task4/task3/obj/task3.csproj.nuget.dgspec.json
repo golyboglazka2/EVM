@@ -41,6 +41,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FreeSpire.XLS": {
+              "target": "Package",
+              "version": "[12.7.0, )"
+            },
             "Raven.Iot.Device.Bindings": {
               "target": "Package",
               "version": "[1.0.0, )"

@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FreeSpire.XLS" Version="12.7.0" />
     <PackageReference Include="Raven.Iot.Device.Bindings" Version="1.0.0" />
     <PackageReference Include="Spire.XLS" Version="13.11.4" />
   </ItemGroup>
